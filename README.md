@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anvesh
 - 👀 I’m interested in Web Development and Machine learning
 - 🌱 I’m currently learning Machine learning and React and Node.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me anveshsadam3@gmail.com
 
 <!---

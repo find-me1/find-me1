@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anvesh
 - 👀 I’m interested in Web Development and Machine learning
-- 🌱 I’m currently learning Machine learning and React and Node.js
+- 🌱 I’m currently learning  Data Structures and Algorithms (DSA), Machine learning .
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me anveshsadam3@gmail.com
 
